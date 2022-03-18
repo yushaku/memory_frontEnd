@@ -4,7 +4,7 @@ https://yushaku-memory-app.netlify.app/
 
 ### `npm start`
 
-![image](https://user-images.githubusercontent.com/72312124/154078621-40f41620-214b-4f5c-aff2-b4a1190b954d.png)
+![image](https://user-images.githubusercontent.com/72312124/159038470-5ce3972e-fa46-408a-8a33-52e019f2bac7.png)
 
 
 Runs the app in the development mode.\
